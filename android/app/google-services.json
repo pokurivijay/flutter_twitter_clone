@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119724536116",
+    "project_id": "fwitter-4eafd",
+    "storage_bucket": "fwitter-4eafd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119724536116:android:05a0fdc6c1a1204ee93561",
+        "android_client_info": {
+          "package_name": "com.thealphamerc.fwitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119724536116-uib8n3oo48nkgr3t3609okmnrcmbbvo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDgKmSpZspRR2NJC6PDV5pE4MssO74kos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119724536116-uib8n3oo48nkgr3t3609okmnrcmbbvo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
