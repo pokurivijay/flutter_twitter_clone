@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.thealphamerc.flutter_twitter_clone">
+    package="com.thealphamerc.fwitter">
 
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -15,7 +15,7 @@
         android:usesCleartextTraffic="true"
         >
         <activity
-            android:exported="false"
+            android:exported="true"
             android:name=".MainActivity"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"

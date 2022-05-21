@@ -1,4 +1,4 @@
-package com.thealphamerc.flutter_twitter_clone;
+package com.thealphamerc.fwitter;
 
 import io.flutter.embedding.android.FlutterActivity;
 
